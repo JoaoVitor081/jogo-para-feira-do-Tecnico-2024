@@ -1,6 +1,10 @@
 header{
-    color: aliceblue;
-    background-color: black;
+    text-align: center;
+    font-size: 70px;
     height: 100px;
     width: 100%;
+}
+section{
+    float: left;
+    margin-left: 30px;
 }
