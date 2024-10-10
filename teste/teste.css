@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.dino {
+    background-image: url(img/SorGabrielQuimica-v.01.gif);
+    background-repeat: no-repeat;
+    position: absolute;
+    bottom: 0;
+    right: 10%;
+    width: 70px;
+    height: 70px;
+}
+.background {
+    position: absolute;
+    bottom: 10px;
+    width: 250px;
+    height: 100px;
+}
