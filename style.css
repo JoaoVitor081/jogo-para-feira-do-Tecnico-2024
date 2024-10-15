@@ -1,0 +1,23 @@
+section {
+    background-color: black;
+    width: 30%;
+    height: 400px;
+    float: left;
+    margin-left: 20px;
+    font-size: 30px;
+    color: aliceblue;
+    
+}
+
+img{
+    background-color: white;
+    width: 90%;
+    height: 100px;
+    margin-left: 5%;
+    margin-top: 25px;
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+}
