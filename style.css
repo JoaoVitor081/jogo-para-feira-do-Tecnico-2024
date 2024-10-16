@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+    float: left;
+    width: 400px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: black;
+    text-align: center;
+}
+.GameOver{
+    font-size: 150px;
+    text-align: center;
+}
