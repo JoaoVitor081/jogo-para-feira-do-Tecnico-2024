@@ -5,9 +5,9 @@ function pegarEventoTeclado( event ){
     if(event.keyCode === 32 ){
         jump();
     }
-}
+};
 
-document.addEventListener ('keyup', pegarEventoTeclado)
+document.addEventListener ('keyup', pegarEventoTeclado);
 
 let position = 0;
 function jump(){
