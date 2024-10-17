@@ -14,12 +14,20 @@ section{
 }
 #Quimica{
     background-color: rgb(3, 0, 151);
-    height: 500px;
+    height: 555px;
     width: 300px;
-    border-radius: 60px;
+    border-radius: 50px;
     box-shadow: 10px 10px 80px 25px yellow;
+    background-image: url(./);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: center;
 }
-p{
+#Quimica p{
+    width: 170px;
+    height: 40px;
+    background-color: rgb(3, 0, 151);
+    border-radius: 20px;
     text-decoration: none;
     font-size: 30px;
     margin-left: 60px;
