@@ -14,14 +14,15 @@ section{
 }
 #Quimica{
     background-color: rgb(3, 0, 151);
-    height: 555px;
+    height: 310px;
     width: 300px;
     border-radius: 50px;
     box-shadow: 10px 10px 80px 25px yellow;
-    background-image: url(./);
+    background-image: url(./SorGabrielQuimica-v.02.gif);
     background-repeat: no-repeat;
     background-size: 200px;
-    background-position: center;
+    background-position:bottom
+
 }
 #Quimica p{
     width: 170px;
